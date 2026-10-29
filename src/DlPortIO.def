@@ -1,0 +1,14 @@
+LIBRARY DlPortIO.dll
+EXPORTS
+    DlPortReadPortUchar = DlPortReadPortUchar@4
+    DlPortReadPortUshort = DlPortReadPortUshort@4
+    DlPortReadPortUlong = DlPortReadPortUlong@4
+    DlPortWritePortUchar = DlPortWritePortUchar@8
+    DlPortWritePortUshort = DlPortWritePortUshort@8
+    DlPortWritePortUlong = DlPortWritePortUlong@8
+    DlPortReadPortBufferUchar = DlPortReadPortBufferUchar@12
+    DlPortReadPortBufferUshort = DlPortReadPortBufferUshort@12
+    DlPortReadPortBufferUlong = DlPortReadPortBufferUlong@12
+    DlPortWritePortBufferUchar = DlPortWritePortBufferUchar@12
+    DlPortWritePortBufferUshort = DlPortWritePortBufferUshort@12
+    DlPortWritePortBufferUlong = DlPortWritePortBufferUlong@12
