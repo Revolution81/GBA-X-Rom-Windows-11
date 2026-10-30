@@ -1,6 +1,6 @@
 # X-Rom GBA flash cart on Windows 10/11
 
-![X-Rom USB link cable and 512 Mbit cartridge](docs/X-Rom cart & linker.jpg)
+![X-Rom USB link cable and 512 Mbit cartridge](<docs/X-Rom cart & linker.jpg>)
 
 Run the **X-Rom GBA Link Port USB cable** and **LittleWriter 1.0.8.4** on modern 64-bit Windows, without a Windows 98 virtual machine.
 
