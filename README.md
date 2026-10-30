@@ -1,5 +1,7 @@
 # X-Rom GBA flash cart on Windows 10/11
 
+![X-Rom USB link cable and 512 Mbit cartridge](docs/xrom-kit.jpg)
+
 Run the **X-Rom GBA Link Port USB cable** and **LittleWriter 1.0.8.4** on modern 64-bit Windows, without a Windows 98 virtual machine.
 
 The X-Rom was a 512 Mbit Game Boy Advance flash cart kit sold around 2004. You put the cart in a GBA, connect the GBA's link port to the PC with a blue USB cable, and write games with LittleWriter. Its drivers stopped working after Windows XP. This project replaces them with Microsoft's built-in WinUSB driver and a small drop-in DLL.
